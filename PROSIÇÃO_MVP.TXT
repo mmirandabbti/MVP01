@@ -1,6 +1,6 @@
 # MVP01
 MVP do primeiro módulo
----------------------- Proposta de MVP da PUC --------------------
+---------------------- Proposta de MVP --------------------
 Premissa: As datas utilizadas contamplam intervalos entre 09/12/2023 - 31/12/2024.
 
 Primeira parte:
